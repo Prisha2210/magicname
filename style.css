@@ -1,0 +1,30 @@
+.span_black {
+    color: black;
+    font-size: 15px;
+
+}
+
+.heading {
+    font-size: 23px;
+    width:100%;
+    margin:0;
+    box-shadow: 5px 5px 50px cornflowerblue;
+}
+
+#copy_right_footer {
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:100%;
+    background-color: cyan;
+    color:navy;
+    text-align: center;
+    line-height: 3;
+    position:fixed ;
+    bottom:0px;
+}
+
+canvas {
+    border: 5px solid rgb(211, 110, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 50px blueviolet;
+}
